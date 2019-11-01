@@ -118,9 +118,12 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [The end of requirements](http://www.svpg.com/the-end-of-requirements/) - Marty Cagan
 
  ### Roadmaps, Planning, and Prioritization
+ - [ ] [Thinking in Horizons](https://iwanttobeaproductmanager.com/post/thinking-in-horizons) - Ala Shiban
  - [ ] [The seven deadly sins of product planning](http://www.svpg.com/the-seven-deadly-sins-of-product-planning/) - Marty Cagan
  - [ ] [Product strategy means saying no](http://blog.intercom.io/product-strategy-means-saying-no/) - Des Traynor
  - [ ] [Product priorities start with strategic goals](http://www.productpowers.com/blog/product-priorities-start-with-strategic-goals.html) - Bruce McCarthy
+ - [ ] [Prioritization techniques](https://iwanttobeaproductmanager.com/post/work-prioritization) - Ala Shiban
+ 
  - [ ] [The inconvenient truth about product](http://www.svpg.com/the-inconvenient-truth-about-product/) - Marty
  - [ ] [The opportunity backlog](http://svpg.com/the-opportunity-backlog) - Marty Cagan
  - [ ] [The dirty dozen roadmap roadblocks](http://www.productpowers.com/blog/the-dirty-dozen-roadmap-roadblocks.html) - Bruce McCarthy
@@ -179,6 +182,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [ ] [What are the most important metrics for developing and managing a mobile product?](https://www.quora.com/What-are-the-most-important-metrics-for-developing-and-managing-a-mobile-product/answer/Drew-Dillon) - Drew Dillon
 
  ### Organizing your Team
+ - [ ] [Creating Accountability](https://iwanttobeaproductmanager.com/post/creating-accountability) - Ala Shiban
  - [ ] [Enter the Matrix - Organizing Product Management](https://www.braintreepayments.com/braintrust/Enter-the-Matrix-Organizing-Product-Management) - Mark Tattersall
  - [ ] [Product organizational structure](http://www.svpg.com/product-organizational-structure/) - Marty Cagan
  - [ ] [Good product team, bad product team](http://www.svpg.com/good-product-team-bad-product-team/) - Marty Cagan
